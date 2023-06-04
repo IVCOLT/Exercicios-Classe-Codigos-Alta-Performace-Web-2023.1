@@ -1,0 +1,61 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f1f1f1;
+    margin: 0;
+    padding: 0;
+    background:linear-gradient(rgb(0, 0, 0) , #00ffee);
+    min-height: 100vh;
+  }
+
+  .container {
+    background-color: white;
+    margin-top: 5%;
+    margin-left: 26%;
+    max-width: 40%;
+    padding: 5%;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+
+   
+  }
+  h1{
+    text-align: center;
+    font-size: 190%;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 1%;
+    color: #333;
+  }
+  
+  input[type="text"],
+  input[type="number"] {
+    font-size: 130%;
+    width: 100%;
+    padding: 8px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    margin-bottom: 5%;
+  }
+  
+  button {
+    font-size: 100%;
+    background-color: #4caf50;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    padding: 5% 8%;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #45a049;
+  }
+  
+  #saldo {
+    font-size: 130%;
+    font-weight: bold;
+    color: #333;
+  }
