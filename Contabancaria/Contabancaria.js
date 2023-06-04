@@ -1,3 +1,11 @@
+/*
+Kawã Vinicius Viana - 01536599
+Osvaldo Queiroz - 01523854
+Lívia Maria - 01520238
+Gabryel Santana - 01529087
+Leonardo Schneider - 01522463
+Luís Mendonça - 01537098 
+*/
 const titularInput = document.getElementById("titular");
 const saldoElement = document.getElementById("saldo");
 const valorInput = document.getElementById("valor");
